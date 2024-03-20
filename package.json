@@ -1,12 +1,14 @@
 {
-  "name": "simple-calculator",
-  "version": "1.0.0",
+  "name": "n6ra11-simple-calculator",
+  "version": "1.0.1",
   "description": "simple calculator with typescript, Node.js and Inquirer",
   "main": "index.js",
   "type": "module",
+  "bin":"insex.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords":[],
   "author": "Muhammad javed",
   "license": "MIT",
   "dependencies": {

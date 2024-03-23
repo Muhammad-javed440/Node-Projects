@@ -56,7 +56,49 @@ npm login
 ```
 - 3- To publish it on npm
 ```
+npm publis
+```
+## In future when we change our project must change version in package.json
+must compile index.ts file
+```
+tsc
+```
+> And publish again
+```
 npm publish
+```
+# To initialize git
+```
+git init
+```
+> To add file
+```
+git add .
+```
+> To commit out file
+```
+git commit -m "message"
+```
+> To create main branch
+```
+git branch -M main
+```
+> To link github
+```
+git remote add origin github link
+```
+
+
+## Reload to repository
+```
+git add .
+```
+```
+git commit -m " commit"
+```
+```
+git push origin main
+```
 ```
 # To run our CALCULATOR in any LAPTOP to run this commond in terminal in powershell.
 ```

@@ -42,7 +42,7 @@ tsc --init
 ```
 ## We import inquirer by using this code
 ```
-npm i --save-dev @types/inquire
+npm i --save-dev @types/inquirer
 ```
 > Thus by these code we can make our simple calculator.
 # To publish it on npm

@@ -56,7 +56,7 @@ npm login
 ```
 - 3- To publish it on npm
 ```
-npm publis
+npm publish
 ```
 ## In future when we change our project must change version in package.json
 must compile index.ts file
